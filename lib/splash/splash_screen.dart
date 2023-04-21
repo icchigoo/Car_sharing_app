@@ -61,7 +61,8 @@ class _SplashScreenState extends State<SplashScreen> {
               height: screenHeight * 0.04,
               decoration: BoxDecoration(
                   image: const DecorationImage(
-                      image: AssetImage('assets/111'), fit: BoxFit.contain),
+                      image: AssetImage('assets/powered_by_google.png'),
+                      fit: BoxFit.contain),
                   borderRadius: BorderRadius.circular(24)),
             ),
             SizedBox(height: screenHeight * 0.05),

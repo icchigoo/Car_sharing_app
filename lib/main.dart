@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
     late Widget startingWidget;
     if (FirebaseAuth.instance.currentUser != null) {
       // Get.put(AuthController(), permanent: true);
-      startingWidget = BottomNavBar();
+      startingWidget = SplashScreen();
     } else {
       startingWidget = SplashScreen();
     }
