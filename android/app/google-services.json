@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "142241354744",
+    "firebase_url": "https://rideshareapp-a39aa-default-rtdb.firebaseio.com",
+    "project_id": "rideshareapp-a39aa",
+    "storage_bucket": "rideshareapp-a39aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142241354744:android:8c63dbc9cee1b2b8aa7c0d",
+        "android_client_info": {
+          "package_name": "com.carpooling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142241354744-k0kabfppecptbu6de4b7rt4ss5t6bls9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carpooling_app",
+            "certificate_hash": "7e165d83151baf2f0d56e40fcb3495517567e33e"
+          }
+        },
+        {
+          "client_id": "142241354744-vbcmphm1e67ot921qlkk6v7o0m4fjmug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDckm_S7Gk0CR3xVK_IPTyEwmKLH1mzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142241354744-gp8g0dmfggl696tgcjs9i9c8j9gpdgh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142241354744:android:6da8b6de65bd47a2aa7c0d",
+        "android_client_info": {
+          "package_name": "com.example.carpooling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142241354744-vbcmphm1e67ot921qlkk6v7o0m4fjmug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDckm_S7Gk0CR3xVK_IPTyEwmKLH1mzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142241354744-gp8g0dmfggl696tgcjs9i9c8j9gpdgh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
